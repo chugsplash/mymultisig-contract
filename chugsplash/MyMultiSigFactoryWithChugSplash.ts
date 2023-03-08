@@ -1,6 +1,8 @@
-module.exports = {
+import { UserChugSplashConfig } from '@chugsplash/core'
+
+const config: UserChugSplashConfig = {
   options: {
-    projectName: 'MyMultiSigFactoryWithChugSplash',
+    projectName: 'Pate MultiSigFactoryWithChugSplash',
   },
   contracts: {
     MyMultiSigFactoryWithChugSplash: {
