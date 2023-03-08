@@ -2,7 +2,7 @@ import { UserChugSplashConfig } from '@chugsplash/core'
 
 const config: UserChugSplashConfig = {
   options: {
-    projectName: 'Pate MultiSigFactoryWithChugSplash',
+    projectName: 'Pate Multisig 2',
   },
   contracts: {
     MyMultiSigFactoryWithChugSplash: {
