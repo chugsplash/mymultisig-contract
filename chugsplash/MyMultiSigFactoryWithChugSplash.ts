@@ -2,7 +2,7 @@ import { UserChugSplashConfig } from '@chugsplash/core'
 
 const config: UserChugSplashConfig = {
   options: {
-    projectName: 'My Multisig 2',
+    projectName: 'My Multisig',
   },
   contracts: {
     MyMultiSigFactoryWithChugSplash: {
