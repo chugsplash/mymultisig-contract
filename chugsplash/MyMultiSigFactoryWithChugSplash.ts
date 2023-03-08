@@ -8,7 +8,7 @@ const config: UserChugSplashConfig = {
     MyMultiSigFactoryWithChugSplash: {
       contract: 'MyMultiSigFactoryWithChugSplash',
       variables: {
-        _multiSigCount: 0,
+        _multiSigCount: 1,
         _multiSigs: {},
         _multiSigIndex: {},
         _multiSigCreatorCount: {},
